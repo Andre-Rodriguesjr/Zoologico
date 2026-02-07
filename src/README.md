@@ -39,8 +39,8 @@ O sistema permite cadastrar animais, listar informações e trabalhar com difere
 
 ## 🏗️ Estrutura do Projeto
 
+```bash
 Zoologico/
-│
 ├── src/
 │   ├── application/
 │   │   └── Main.java
@@ -64,7 +64,7 @@ Zoologico/
 ├── README.md
 ├── .gitignore
 └── Zoologico.iml
-
+```
 
 ---
 
